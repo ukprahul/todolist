@@ -2,3 +2,4 @@
 # todolist
 A bare minimum to-do app which is perfect for people who want to stay focused on their tasks and avoid distractions. With just a few essential features, this app helps you to stay organized, prioritize your tasks, track progress, and stay motivated.
 This line is written by Rahul.g
+Teaching Rahul about merge conflicts
